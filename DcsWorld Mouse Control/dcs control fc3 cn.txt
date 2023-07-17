@@ -1,0 +1,18 @@
+脚本 "dcs control fc3.py" 使用说明
+
+注意：你需要按住鼠标右键来激活vJoy摇杆的功能。以下操作均基于你已经激活vJoy摇杆功能。
+
+# dcs自动识别
+vJoy摇杆x轴 (滚转) ：鼠标x轴
+vJoy摇杆y轴 (俯仰) ：鼠标y轴
+# 需进入“按键设定”手动设置
+vJoy slider 1      ：右Alt + 鼠标滚轮
+vJoy slider 2      ：右Ctrl + 鼠标滚轮
+vJoy按钮9          ：鼠标中键
+
+vJoy按钮 在dcs中显示成 joy_btn。
+vJoy slider 1 和 vJoy slider 2 通常被设置成用于控制左、右油门。
+成功设定左、右油门的控制后，还可以通过下面的操作（无需在dcs中设置）来同时控制两个油门。
+
+油门（左右）       ：右Shift + 鼠标滚轮
+注意：此操作附带油门平齐功能（无需设定）

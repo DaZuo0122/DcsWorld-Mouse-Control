@@ -1,0 +1,17 @@
+This is a simple guide to script "dcs control fc3.py"
+
+Note: to enable vJoy stick, you need to hold mouse2. The followings are based on you already enabled vJoy stick.
+
+# automatically set in game
+vJoy stick axis X : mouse X
+vJoy stick axis Y : mouse Y
+# you should set them on you own in game
+vJoy slider 1     : RightAlt + mouse wheel
+vJoy slider 2     : RightCtrl + mouse wheel
+vJoy botton 9     : mouse3
+
+vJoy botton is known as joy_btn in dcs world setting.
+vJoy slider 1 and vJoy slider 2 are usually set to control left throttle and right throttle.
+If you set vJoy sliders correctly, there is another throttle control method.
+
+throttle(both)    : RightShift + mouse wheel
